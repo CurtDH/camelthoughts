@@ -3,4 +3,8 @@ the two moons may be a problem for Wolfman
 There might be a giant lake under the ice. Sweet!
 Go see 
 
+<<<<<<< HEAD
 I'm trying to start a conflict through the push - Curtis
+=======
+changed by ano
+>>>>>>> bcd6f8472ee1bd6def95c950f06692074b73fb46
